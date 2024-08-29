@@ -69,15 +69,5 @@ Além de meu trabalho na área de TI, onde acumulei mais de 14 anos de experiên
 
 Este repositório é um reflexo do meu lado mais pessoal e daquilo que me motiva fora do escritório. É um espaço onde compartilho minhas paixões e descobertas com amigos, parceiros de negócios e todos aqueles que compartilham interesses semelhantes. 
 
-Sinta-se à vontade para explorar, comentar e se conectar comigo através deste repositório. Estou sempre aberto a novas conexões e discussões sobre os temas que amo!
-
-## 📝 Como Contribuir
-
-Se você está interessado em contribuir ou compartilhar algo relacionado aos temas abordados, sinta-se livre para abrir uma **issue** ou **pull request**. Adoro colaborar e aprender com a comunidade!
-
-Obrigado por visitar e espero que você encontre algo que ressoe com suas próprias paixões e interesses!
-
----
-
 **Elias Andrade**  
 [LinkedIn](https://www.linkedin.com/in/elias-andrade) | [GitHub](https://github.com/evolucaoit)
